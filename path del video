@@ -1,0 +1,2 @@
+# Video path 
+path = '/content/drive/MyDrive/Colab Notebooks/vehicle-counting.mp4' # entre las comillas irá el path para el video, en mi caso, lo tenia en mi google drive
