@@ -1,0 +1,5 @@
+#loading a YOLO model
+model = YOLO('yolov8x.pt')
+
+#geting names from classes
+dict_classes = model.model.names
