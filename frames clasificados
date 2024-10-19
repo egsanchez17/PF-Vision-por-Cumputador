@@ -1,0 +1,5 @@
+# Checking samples of processed frames
+for i in [28, 29, 32, 40, 42, 50, 58]:
+    plt.figure(figsize =( 14, 10))
+    plt.imshow(frames_list[i])
+    plt.show()
