@@ -1,0 +1,3 @@
+#output video result
+frac = 0.7
+Video(data='rep_result.mp4', embed=True, height=int(720 * frac), width=int(1280 * frac))
